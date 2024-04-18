@@ -1,2 +1,1 @@
 # KoBERT
- Practicing KoBERT
